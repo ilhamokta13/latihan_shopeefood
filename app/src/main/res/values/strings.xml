@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">latihan_shopeefood</string>
+    <string name="icon_scan">icon_scan</string>
+    <string name="jumlah_saldo">Rp2.719</string>
+    <string name="isi_saldo_shopeepay">Isi Saldo</string>
+    <string name="koin_shopee">2.600</string>
+    <string name="klaim_koin">Koin Saya</string>
+    <string name="transfer_shopee">Transfer Gratis</string>
+    <string name="gratis_ongkir_voucher">Gratis Ongkir dan Voucher</string>
+    <string name="pulsa_tagihan_tiket">Pulsa, Tagihan, dan Tiket</string>
+    <string name="in_mall">Shopee Mall</string>
+    <string name="sekitar">ShopeePay Sekitarmu</string>
+    <string name="shopee_barokah">Shopee Barokah</string>
+    <string name="shopee_games">Shopee Games</string>
+    <string name="shopee_food">ShopeeFood</string>
+    <string name="shopee_pilih_lokal">Shopee Pilih Lokal</string>
+    <string name="pay_letter">SPayLater</string>
+    <string name="lihat_semua">Lihat Semua</string>
+    <string name="banner_kiri">banner_kiri</string>
+    <string name="banner_tengah">banner_tengah</string>
+    <string name="banner_kanan">banner_kanan</string>
+
+
+
+
+
+
+</resources>
